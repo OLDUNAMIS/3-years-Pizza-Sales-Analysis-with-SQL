@@ -46,4 +46,9 @@ Each table plays a crucial role in storing different facets of the business oper
 8. Which sizes dominate within each pizza type (e.g. XL for Meat Lovers)?
 9. Top 10 highest-revenue orders and pizzas involved?
 10. Average price per pizza (adjusted by quantity) per order?
-![image](https://github.com/user-attachments/assets/4369c034-8e84-4c4f-8027-0a2a3bc9e226)
+
+# **Recommendations:**
+**Staffing and Inventory Management**: Increase resources during peak order times (lunch and dinner hours) to ensure smooth operations.
+**Menu Optimization**: Focus on promoting and potentially expanding the menu options for Classic and Supreme pizzas, as they generate the most revenue.
+**Marketing**: Consider targeted promotions for less popular pizza sizes (e.g., XL, XXL) to increase their sales, or evaluate if these sizes should be continued.
+**Customer Preferences**: Maintain a balance of both vegetarian and meat-based pizza offerings, as they appeal to a wide audience.
